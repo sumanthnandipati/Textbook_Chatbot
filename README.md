@@ -1,6 +1,6 @@
 # Textbook Chatbot
 
-This chatbot is as an educational tool that's built to answer questions related to the Swebok textbook, [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering). The chatbot was built by team 3 for [CSE 6550: Software Engineering Concepts](https://catalog.csusb.edu/coursesaz/cse/)
+This chatbot is as an educational tool that's built to answer questions related to the Swebok textbook, [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering). The chatbot was built by our team 3 for [CSE 6550: Software Engineering Concepts](https://catalog.csusb.edu/coursesaz/cse/)
 
 [Website](https://sec.cse.csusb.edu/team3/)  
 [Jupyter notebook](https://sec.cse.csusb.edu/team3/jupyter)
@@ -196,7 +196,7 @@ Below is a list of answerable and unanswerable questions that will be used to ev
 
 ## Affiliation
 
-Built by **Team 3**  
+Built by our **Team 3**  
 Course: CSE 6550, Fall '24 (Software Engineering Concepts)  
 Institution: California State University, San Bernardino  
 
