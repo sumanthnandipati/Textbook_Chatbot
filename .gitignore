@@ -1,0 +1,21 @@
+# Database
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+team3_env
+
+# Python
+__pycache__/
+
+# Environment Variables
+.env
+
+# MacOS
+**/.DS_Store
+
+# Data
+*.temp
+
+# Tests
+test_outputs/
